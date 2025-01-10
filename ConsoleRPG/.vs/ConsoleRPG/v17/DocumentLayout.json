@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZP055583\\source\\repos\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|C:\\Users\\ZP055583\\source\\repos\\Project1\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|c:\\users\\zp055583\\source\\repos\\project1\\project1\\gameobjects\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|solutionrelative:project1\\gameobjects\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|C:\\Users\\ZP055583\\source\\repos\\Project1\\project1\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|solutionrelative:project1\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|C:\\Users\\ZP055583\\source\\repos\\Project1\\project1\\gameobjects\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|solutionrelative:project1\\gameobjects\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|C:\\Users\\ZP055583\\source\\repos\\Project1\\project1\\gameobjects\\basecell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|solutionrelative:project1\\gameobjects\\basecell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|C:\\Users\\ZP055583\\source\\repos\\Project1\\project1\\gameobjects\\vegetationcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|solutionrelative:project1\\gameobjects\\vegetationcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|C:\\Users\\ZP055583\\source\\repos\\Project1\\project1\\utility\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|solutionrelative:project1\\utility\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|C:\\Users\\ZP055583\\source\\repos\\Project1\\project1\\gameobjects\\watercell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C1ADE1-D012-4BE0-9562-4C2FA8BB9333}|Project1\\Project1.csproj|solutionrelative:project1\\gameobjects\\watercell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\Utility\\Point.cs",
+              "RelativeDocumentMoniker": "Project1\\Utility\\Point.cs",
+              "ToolTip": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\Utility\\Point.cs",
+              "RelativeToolTip": "Project1\\Utility\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T01:25:05.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaterCell.cs",
+              "DocumentMoniker": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\WaterCell.cs",
+              "RelativeDocumentMoniker": "Project1\\GameObjects\\WaterCell.cs",
+              "ToolTip": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\WaterCell.cs",
+              "RelativeToolTip": "Project1\\GameObjects\\WaterCell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:18:12.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VegetationCell.cs",
+              "DocumentMoniker": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\VegetationCell.cs",
+              "RelativeDocumentMoniker": "Project1\\GameObjects\\VegetationCell.cs",
+              "ToolTip": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\VegetationCell.cs",
+              "RelativeToolTip": "Project1\\GameObjects\\VegetationCell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:13:18.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseCell.cs",
+              "DocumentMoniker": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\BaseCell.cs",
+              "RelativeDocumentMoniker": "Project1\\GameObjects\\BaseCell.cs",
+              "ToolTip": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\BaseCell.cs",
+              "RelativeToolTip": "Project1\\GameObjects\\BaseCell.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:06:08.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Project1\\GameObjects\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\GameBoard.cs",
+              "RelativeToolTip": "Project1\\GameObjects\\GameBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:04:54.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\Weapon.cs",
+              "RelativeDocumentMoniker": "Project1\\GameObjects\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\Weapon.cs",
+              "RelativeToolTip": "Project1\\GameObjects\\Weapon.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:24:32.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\Player.cs",
+              "RelativeDocumentMoniker": "Project1\\GameObjects\\Player.cs",
+              "ToolTip": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\GameObjects\\Player.cs",
+              "RelativeToolTip": "Project1\\GameObjects\\Player.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:21:44.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Project1\\Program.cs",
+              "ToolTip": "C:\\Users\\ZP055583\\source\\repos\\Project1\\Project1\\Program.cs",
+              "RelativeToolTip": "Project1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:20:19.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
